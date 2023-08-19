@@ -1,0 +1,16 @@
+---
+title: "A Novel Carbon Cycle Turbulence Index Identifies Environmental and Ecological Perturbations"
+collection: publications
+permalink: /publication/A Novel Carbon Cycle Turbulence Index Identifies Environmental and Ecological Perturbations
+# excerpt: 'Earth's history has been characterised by complex interactions between life and the environment, which are often difficult to resolve. Here, we propose a new carbon cycle turbulence index (CTindex), based on the carbonate-carbon isotope ({$\delta$}13Ccarb) record, to measure the extent of environmental perturbation over the last billion years. The CTindex trend is closely linked to Phanerozoic biotic extinction rates (ERs), as calculated from a palaeobiology database, supporting a strong environmental control on biotic ERs. We use the empirical CTindex\textemdash ER relationship to compare the extent of environmental perturbation due to greenhouse gas emissions with that during the Permian-Triassic (PTr) transition ({$\sim$}252 Ma), representing the most severe mass extinction of the Phanerozoic. At the current peak of fossil fuel emissions, the CTindex indicates a moderate future environmental perturbation. However, if fossil fuel emissions increase into the next century, a pronounced CTindex peak greater than that which occurred during the PTr transition is indicated, which suggests the potential for a severe ``sixth mass extinction'' in the future.'
+date: 2021-12-01
+venue: 'Geochemical Perspectives Letters'
+# paperurl: 'http://cugbaoyi.github.io/files/li2021novel.pdf'
+# citation: 'Li, Z., Guo, Z., Chen, Z., Poulton, S., **Bao, Y.**, Zhao, L. & Zhang, F. (2021). A Novel Carbon Cycle Turbulence Index Identifies Environmental and Ecological Perturbations. Geochemical Perspectives Letters, 20(), 11-15.'
+---
+Earth's history has been characterised by complex interactions between life and the environment, which are often difficult to resolve. Here, we propose a new carbon cycle turbulence index (CTindex), based on the carbonate-carbon isotope ({$\delta$}13Ccarb) record, to measure the extent of environmental perturbation over the last billion years. The CTindex trend is closely linked to Phanerozoic biotic extinction rates (ERs), as calculated from a palaeobiology database, supporting a strong environmental control on biotic ERs. We use the empirical CTindex\textemdash ER relationship to compare the extent of environmental perturbation due to greenhouse gas emissions with that during the Permian-Triassic (PTr) transition ({$\sim$}252 Ma), representing the most severe mass extinction of the Phanerozoic. At the current peak of fossil fuel emissions, the CTindex indicates a moderate future environmental perturbation. However, if fossil fuel emissions increase into the next century, a pronounced CTindex peak greater than that which occurred during the PTr transition is indicated, which suggests the potential for a severe ``sixth mass extinction'' in the future.
+
+[DOI](https://doi.org/)
+[Download paper here](http://cugbaoyi.github.io/files/li2021novel.pdf)
+
+Recommended citation: Li, Z., Guo, Z., Chen, Z., Poulton, S., **Bao, Y.**, Zhao, L. & Zhang, F. (2021). A Novel Carbon Cycle Turbulence Index Identifies Environmental and Ecological Perturbations. Geochemical Perspectives Letters, 20, 11-15.

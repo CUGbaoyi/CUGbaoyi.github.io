@@ -1,0 +1,16 @@
+---
+title: "A BiLSTM-CNN Model for Predicting Users' next Locations Based on Geotagged Social Media"
+collection: publications
+permalink: /publication/A BiLSTM-CNN Model for Predicting Users' next Locations Based on Geotagged Social Media
+# excerpt: 'Location prediction based on spatio-temporal footprints in social media is instrumental to various applications, such as travel behavior studies, crowd detection, traffic control, and location-based service recommendation. In this study, we propose a model that uses geotags of social media to predict the potential area containing users' next locations. In the model, we utilize HiSpatialCluster algorithm to identify clustering areas (CAs) from check-in points. CA is the basic spatial unit for predicting the potential area containing users' next locations. Then, we use the LINE (Large-scale Information Network Embedding) to obtain the representation vector of each CA. Finally, we apply BiLSTM-CNN (Bidirectional Long Short-Term Memory-Convolutional Neural Network) for location prediction. The results show that the proposed ensemble model outperforms the single LSTM or CNN model. In the case study that identifies 100 CAs out of Weibo check-ins collected in Wuhan, China, the Top-5 predicted areas containing next locations amount to an 80% accuracy. The high accuracy is of great value for recommendation and prediction on areal unit.'
+date: 2021-04-01
+venue: 'International Journal of Geographical Information Science'
+# paperurl: 'http://cugbaoyi.github.io/files/bao2021bilstmcnn.pdf'
+# citation: '**Bao, Y.**, Huang, Z., Li, L., Wang, Y. & Liu, Y. (2021). A BiLSTM-CNN Model for Predicting Users' next Locations Based on Geotagged Social Media. International Journal of Geographical Information Science, 35(4), 639-660.'
+---
+Location prediction based on spatio-temporal footprints in social media is instrumental to various applications, such as travel behavior studies, crowd detection, traffic control, and location-based service recommendation. In this study, we propose a model that uses geotags of social media to predict the potential area containing users' next locations. In the model, we utilize HiSpatialCluster algorithm to identify clustering areas (CAs) from check-in points. CA is the basic spatial unit for predicting the potential area containing users' next locations. Then, we use the LINE (Large-scale Information Network Embedding) to obtain the representation vector of each CA. Finally, we apply BiLSTM-CNN (Bidirectional Long Short-Term Memory-Convolutional Neural Network) for location prediction. The results show that the proposed ensemble model outperforms the single LSTM or CNN model. In the case study that identifies 100 CAs out of Weibo check-ins collected in Wuhan, China, the Top-5 predicted areas containing next locations amount to an 80% accuracy. The high accuracy is of great value for recommendation and prediction on areal unit.
+
+[DOI](https://doi.org/10.1080/13658816.2020.1808896)
+[Download paper here](http://cugbaoyi.github.io/files/bao2021bilstmcnn.pdf)
+
+Recommended citation: **Bao, Y.**, Huang, Z., Li, L., Wang, Y. & Liu, Y. (2021). A BiLSTM-CNN Model for Predicting Users' next Locations Based on Geotagged Social Media. International Journal of Geographical Information Science, 35(4), 639-660.

@@ -1,0 +1,16 @@
+---
+title: "Identifying Spatiotemporal Characteristics and Driving Factors for Road Traffic CO2 Emissions"
+collection: publications
+permalink: /publication/Identifying Spatiotemporal Characteristics and Driving Factors for Road Traffic CO2 Emissions
+# excerpt: 'Road traffic is an important contributor to CO2 emissions. Previous studies lack enough spatiotemporal resolution in emission calculation at the road level and ignore the impact of the built environment on road traffic emissions. Therefore, this study develops a bottom-up methodology based on the traffic trajectory data to analyze the CO2 emission characteristics of road traffic with a high level of spatial-temporal resolution in Shenzhen. Then, the effects of built environment factors on road traffic emissions are investigated using multiscale geographically weighted regression. The results show a highly detailed map of CO2 emissions with high temporal (hour) and space (road) resolutions. The emission characteristics reflect the spatial non-equilibrium in road traffic CO2 emissions. In addition, six factors, including population density, number of workplaces, number of dwellings, density of main road, access to metro stations, and access to bus stops, have a significant effect on road traffic CO2 emissions. Finally, the policy suggestions are proposed for the reduction of road traffic CO2 emissions.'
+date: 2022-08-01
+venue: 'Science of The Total Environment'
+# paperurl: 'http://cugbaoyi.github.io/files/zhou2022identifying.pdf'
+# citation: 'Zhou, X., Wang, H., Huang, Z., **Bao, Y.**, Zhou, G. & Liu, Y. (2022). Identifying Spatiotemporal Characteristics and Driving Factors for Road Traffic CO2 Emissions. Science of The Total Environment, 834(), 155270.'
+---
+Road traffic is an important contributor to CO2 emissions. Previous studies lack enough spatiotemporal resolution in emission calculation at the road level and ignore the impact of the built environment on road traffic emissions. Therefore, this study develops a bottom-up methodology based on the traffic trajectory data to analyze the CO2 emission characteristics of road traffic with a high level of spatial-temporal resolution in Shenzhen. Then, the effects of built environment factors on road traffic emissions are investigated using multiscale geographically weighted regression. The results show a highly detailed map of CO2 emissions with high temporal (hour) and space (road) resolutions. The emission characteristics reflect the spatial non-equilibrium in road traffic CO2 emissions. In addition, six factors, including population density, number of workplaces, number of dwellings, density of main road, access to metro stations, and access to bus stops, have a significant effect on road traffic CO2 emissions. Finally, the policy suggestions are proposed for the reduction of road traffic CO2 emissions.
+
+[DOI](https://doi.org/10.1016/j.scitotenv.2022.155270)
+[Download paper here](http://cugbaoyi.github.io/files/zhou2022identifying.pdf)
+
+Recommended citation: Zhou, X., Wang, H., Huang, Z., **Bao, Y.**, Zhou, G. & Liu, Y. (2022). Identifying Spatiotemporal Characteristics and Driving Factors for Road Traffic CO2 Emissions. Science of The Total Environment, 834, 155270.
