@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Embrace challenges, learn constantly, live fully."
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,11 +9,11 @@ redirect_from:
 ---
 I'm Yi Bao, a researcher in the realm of geospatial sciences. I've pursued and obtained my Ph.D. in Cartography and Geographic Information Systems from Peking University and previously completed my Bachelor's in Information Engineering at China University of Geosciences, Wuhan.
 
-#### **Education:**
+## **Education:**
 - **Ph.D., Cartography and Geographic Information Systems**, Peking University, Sept 2018 - Jul 2023. Advisor: Prof. Zhou Huang.
 - **B.S., Information Engineering**, China University of Geosciences, Wuhan, Sept 2014 - Jul 2018.
 
-#### **Honors and Awards:**
+## **Honors and Awards:**
 - Outstanding Ph.D. Dissertation Award, Peking University, 2023.
 - Excellent Graduate, Peking University, 2023.
 -Outstanding Research Award, Peking University, 2020, 2022.
@@ -23,14 +23,14 @@ I'm Yi Bao, a researcher in the realm of geospatial sciences. I've pursued and o
 - National Scholarship, 2015, 2016.
 - Li Siguang Program, 9th Edition, China University of Geosciences, Wuhan, 2015.
 
-#### **Research Interests:**
+## **Research Interests:**
 - **Urban Spatio-temporal Big Data Mining:** Using data analytics to reveal urban development patterns and trends, aiding urban planning and policy-making.
 
 - **High-resolution Studies on Urban Built Environment Material Stocks:** Using machine learning and geo big data to compute urban stocks for sustainable development and urban evolution direction.
 
 - **Exploring the Interactions between Built Environment and Human Activities:** Analyzing the influence and interplay between urban environments, human activities, and socio-economic attributes.
 
-#### **Publications:**
+## **Publications:**
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
