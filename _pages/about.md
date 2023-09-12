@@ -9,6 +9,8 @@ redirect_from:
 ---
 I'm Yi Bao, a researcher in the realm of geospatial sciences. I've pursued and obtained my Ph.D. in Cartography and Geographic Information Systems from Peking University and previously completed my Bachelor's in Information Engineering at China University of Geosciences, Wuhan.
 
+Central to all my research endeavors is my commitment to sustainable urban development. I firmly believe in the transformative power of machine learning and spatial analysis techniques to craft a more sustainable and environmentally-conscious urban future. I'm always excited to collaborate and discuss my work, so please feel free to reach out. Let's pave the way for a more sustainable urban future together!
+
 ## **Education:**
 - **Ph.D., Cartography and Geographic Information Systems**, Peking University, Sept 2018 - Jul 2023. Advisor: Prof. Zhou Huang.
 - **B.S., Information Engineering**, China University of Geosciences, Wuhan, Sept 2014 - Jul 2018.
@@ -41,5 +43,3 @@ I'm Yi Bao, a researcher in the realm of geospatial sciences. I've pursued and o
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-Central to all my research endeavors is my commitment to sustainable urban development. I firmly believe in the transformative power of machine learning and spatial analysis techniques to craft a more sustainable and environmentally-conscious urban future. I'm always excited to collaborate and discuss my work, so please feel free to reach out. Let's pave the way for a more sustainable urban future together!
